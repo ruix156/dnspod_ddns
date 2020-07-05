@@ -24,7 +24,7 @@ DNSPOD > 用户中心 > 安全设置 > API Token
 
 根据响应中的 `records` 得到子域名记录对应的 `record_id`
 #### 配置sub_domain
-sub_domain 主机记录, 如 www，可选，如果不传，默认为 @
+sub_domain 主机记录, 如 www。如果是主域名，则为@
 #### 配置node_info
 多个节点请根据格式添加，支持IP/CNAME
 
