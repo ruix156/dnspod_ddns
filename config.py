@@ -25,6 +25,7 @@ sub_domain = 'www'
 SCKEY = 'SCU23091T4d306843371cf77258af358f88d625cd0f50e58d5e'
 
 
-# IOS bark
+# IOS bark APP
+# https://github.com/Finb/Bark
 # 自建或者使用开发者提供的推送服务器
 bark_api = 'http://47.74.123.123:5844/4nCuLB2A3DDcjTFFE7Wude/'
